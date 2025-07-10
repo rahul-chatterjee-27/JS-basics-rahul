@@ -1,0 +1,1 @@
+//comparisionofdatatype.js
