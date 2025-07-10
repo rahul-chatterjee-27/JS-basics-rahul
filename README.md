@@ -1,31 +1,20 @@
-# 🟨 JavaScript Basics by Rahul
+# JavaScript Basics Repository
 
-This repository contains the **foundational concepts of JavaScript** that I'm learning and practicing.  
-All code is beginner-friendly and well-commented for easy understanding.
+This repository contains foundational JavaScript practice files covering core concepts like variables, data types, memory, operations, and more.
 
----
+## 📄 File Overview
 
-## 📂 Structure
+| File Name               | Description                                                                 |
+|------------------------|-----------------------------------------------------------------------------|
+| `comparisionofdatatype.js` | Demonstrates comparison between different data types and equality operations. |
+| `datatypes.js`              | Covers primitive and reference data types like strings, numbers, objects, etc. |
+| `datatypesconversion.js`    | Shows how to convert between data types using built-in conversion methods.     |
+| `datatypesummary.js`        | Provides a summary of all JavaScript data types with examples.                 |
+| `hello.js`                  | A simple hello world / starter script for environment testing.                 |
+| `memory.js`                 | Explains memory handling: stack vs heap and references in JS.                 |
+| `operations.js`             | Includes examples of arithmetic, logical, comparison, and bitwise operations. |
+| `variable.js`               | Introduces variable declarations (`var`, `let`, `const`) and scope rules.     |
 
-All JavaScript files are organized under the `/Basics` folder.
+## 💡 Purpose
 
-### ✅ Topics Covered
-
-| Filename                     | Topic                        |
-|-----------------------------|------------------------------|
-| `hello.js`                  | Hello World & Console Intro  |
-| `variable.js`               | Variables (var, let, const)  |
-| `datatypes.js`              | JavaScript Data Types        |
-| `operations.js`             | Arithmetic & Logical Ops     |
-| `comparisonofdatatype.js`   | Comparison & Equality        |
-| `datatypesconversion.js`    | Type Conversion Techniques   |
-
-> Each file represents a fundamental concept with clear examples.
-
----
-
-## 🛠️ How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/rahul-chatterjee-27/JS-basics-rahul.git
+This repo serves as a foundational resource for learners to explore JavaScript syntax, understand core concepts, and write simple scripts for practice.
