@@ -14,6 +14,9 @@ This repository contains foundational JavaScript practice files covering core co
 | `memory.js`                 | Explains memory handling: stack vs heap and references in JS.                 |
 | `operations.js`             | Includes examples of arithmetic, logical, comparison, and bitwise operations. |
 | `variable.js`               | Introduces variable declarations (`var`, `let`, `const`) and scope rules.     |
+| `string.js`               | Covers string declaration, manipulation methods, and template literals.        |
+| `numsandmath.js`          | Explores number handling, math operations, and common `Math` object functions.|
+
 
 ## 💡 Purpose
 
