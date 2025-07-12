@@ -24,7 +24,7 @@ This repository offers a structured collection of JavaScript practice files that
 | File Path                  | Description                                                                 |
 |---------------------------|-----------------------------------------------------------------------------|
 | `basicsarray.js`    | Covers array declaration, indexing, and common methods like `push`,`pop`,`slice`,`splice`,`upshift`,`shift`. |
-|`array2.js`          |                                                                                                              |
+|`array2.js`          | This script demonstrates key JavaScript array operations including nesting, merging, flattening, and utility methods like isArray(), from(), and of(). |                                                                                                              |
 
 
 ## 💡 Purpose
