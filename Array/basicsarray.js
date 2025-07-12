@@ -34,12 +34,12 @@ console.log(typeof newarray);
 console.log();
 const myarray1=[1,2,3,4,5]
 
-const mynewarray=myarray1.slice(1,3)
+const mynewarray=myarray1.slice(1,3) // It copies part of an array without changing it...
 console.log("A ",myarray1);
 console.log("A1", mynewarray);
 
 
-const mynewarray2=myarray1.splice(1,3)
+const mynewarray2=myarray1.splice(1,3) // It changes the array by adding or removing items...
 console.log("B ",myarray1);
 console.log("B1 ",mynewarray2);
 
