@@ -1,8 +1,8 @@
 # JavaScript Basics Repository
 
-This repository contains foundational JavaScript practice files covering core concepts like variables, data types, memory, operations, and more.
+This repository offers a structured collection of JavaScript practice files that cover essential concepts such as variables, data types, memory management, operations, arrays, and more.
 
-## 📄 Basics
+### 📁 Basics
 
 | File Name               | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
@@ -18,6 +18,12 @@ This repository contains foundational JavaScript practice files covering core co
 | `string.js`               | Covers string declaration, manipulation methods, and template literals.        |
 | `numsandmath.js`          | Explores number handling, math operations, and common `Math` object functions.|
 
+
+### 📁 Array
+
+| File Path                  | Description                                                                 |
+|---------------------------|-----------------------------------------------------------------------------|
+| `basicsarray.js`    | Covers array declaration, indexing, and common methods. |
 
 
 ## 💡 Purpose
