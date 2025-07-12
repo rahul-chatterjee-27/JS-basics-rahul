@@ -2,7 +2,7 @@
 
 This repository contains foundational JavaScript practice files covering core concepts like variables, data types, memory, operations, and more.
 
-## 📄 File Overview
+## 📄 Basics
 
 | File Name               | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
@@ -10,13 +10,14 @@ This repository contains foundational JavaScript practice files covering core co
 | `datatypes.js`              | Covers primitive and reference data types like strings, numbers, objects, etc. |
 | `datatypesconversion.js`    | Shows how to convert between data types using built-in conversion methods.     |
 | `datatypesummary.js`        | Provides a summary of all JavaScript data types with examples.                 |
+| `datetime.js`          | Demonstrates working with JavaScript `Date` object and time-related operations.|
 | `hello.js`                  | A simple hello world / starter script for environment testing.                 |
 | `memory.js`                 | Explains memory handling: stack vs heap and references in JS.                 |
 | `operations.js`             | Includes examples of arithmetic, logical, comparison, and bitwise operations. |
 | `variable.js`               | Introduces variable declarations (`var`, `let`, `const`) and scope rules.     |
 | `string.js`               | Covers string declaration, manipulation methods, and template literals.        |
 | `numsandmath.js`          | Explores number handling, math operations, and common `Math` object functions.|
-| `dateandtime.js`          | Demonstrates working with JavaScript `Date` object and time-related operations.|
+
 
 
 ## 💡 Purpose
