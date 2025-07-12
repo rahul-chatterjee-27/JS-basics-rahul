@@ -11,5 +11,13 @@ const book=["Thriller","Romance","Suspence","Comedy","Horror","Sci-fi","Detectiv
 console.log(book)
 console.log(book.length)
 
+// Array methods-----
+
+
+
+
+
+
+
 
 
