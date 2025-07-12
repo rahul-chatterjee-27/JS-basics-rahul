@@ -16,6 +16,7 @@ This repository contains foundational JavaScript practice files covering core co
 | `variable.js`               | Introduces variable declarations (`var`, `let`, `const`) and scope rules.     |
 | `string.js`               | Covers string declaration, manipulation methods, and template literals.        |
 | `numsandmath.js`          | Explores number handling, math operations, and common `Math` object functions.|
+| `dateandtime.js`          | Demonstrates working with JavaScript `Date` object and time-related operations.|
 
 
 ## 💡 Purpose
