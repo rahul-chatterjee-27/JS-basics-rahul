@@ -12,12 +12,36 @@ console.log(book)
 console.log(book.length)
 
 // Array methods-----
+myarray.push(11)
+console.log(myarray);
+myarray.pop() //Always pop the last value
+console.log(myarray);
+myarray.unshift(6) //Always add element at first plase means[0]...
+console.log(myarray);
+myarray.shift() //Remove the unshifted   value
+console.log(myarray);
+
+console.log();
+console.log(myarray.includes(66));
+console.log(myarray.includes(56)); 
+console.log();
+console.log(myarray.indexOf(66));
+            
+const newarray=myarray.join()
+console.log(newarray);
+console.log(typeof newarray);
+
+console.log();
+const myarray1=[1,2,3,4,5]
+
+const mynewarray=myarray1.slice(1,3)
+console.log("A ",myarray1);
+console.log("A1", mynewarray);
 
 
-
-
-
-
+const mynewarray2=myarray1.splice(1,3)
+console.log("B ",myarray1);
+console.log("B1 ",mynewarray2);
 
 
 
