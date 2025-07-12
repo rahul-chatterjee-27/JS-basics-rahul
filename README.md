@@ -23,7 +23,7 @@ This repository offers a structured collection of JavaScript practice files that
 
 | File Path                  | Description                                                                 |
 |---------------------------|-----------------------------------------------------------------------------|
-| `basicsarray.js`    | Covers array declaration, indexing, and common methods. |
+| `basicsarray.js`    | Covers array declaration, indexing, and common methods like `push`,`pop`,`slice`,`splice`,`upshift`,`shift`. |
 
 
 ## 💡 Purpose
