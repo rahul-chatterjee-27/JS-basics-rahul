@@ -4,8 +4,8 @@ This repository offers a structured collection of JavaScript practice files that
 
 ### 📁 Basics
 
-| File Name               | Description                                                                 |
-|------------------------|-----------------------------------------------------------------------------|
+| File Name                   | Description                                                                    |
+|-----------------------------|--------------------------------------------------------------------------------|
 | `comparisionofdatatype.js`  | Demonstrates comparison between different data types and equality operations.  |
 | `datatypes.js`              | Covers primitive and reference data types like strings, numbers, objects, etc. |
 | `datatypesconversion.js`    | Shows how to convert between data types using built-in conversion methods.     |
@@ -25,6 +25,13 @@ This repository offers a structured collection of JavaScript practice files that
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | `basicsarray.js`    | Covers array declaration, indexing, and common methods like `push`,`pop`,`slice`,`splice`,`upshift`,`shift`.                                |
 |`array2.js`          | Demonstrates key JavaScript array operations including nesting, merging, flattening, and utility methods like `isArray()`, `from()`,`of()`. | 
+
+
+### 📁 Object
+
+| File Name                   | Description                                                                    |
+|-----------------------------|--------------------------------------------------------------------------------|
+| `basicobject.js`            |                                                                                |
 
 
 ## 💡 Purpose
