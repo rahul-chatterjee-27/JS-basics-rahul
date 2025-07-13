@@ -81,10 +81,12 @@ const fbuser2={
     isLoggedIn: true
 }
 console.log(fbuser2);
-console.log(Object.keys(fbuser)) //[ 'id', 'name', 'email', 'isLoggedIn' ]
+console.log(Object.keys(fbuser2)) //[ 'id', 'name', 'email', 'isLoggedIn' ]
+console.log(Object.values(fbuser2)) //[ 'fbrahul2345', 'Rahul Chatterjee', 'rahul@facebook.com', true ]
+console.log(Object.entries(fbuser2)); 
 
-
-
+console.log(fbuser2.hasOwnProperty("email")); //true
+console.log(fbuser2.hasOwnProperty("phone no.")); //false
 
 
 
