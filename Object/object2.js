@@ -40,9 +40,10 @@ console.log(obj2);
 const obj3={obj1,obj2}
 console.log(obj3); //{ obj1: { '1': 'A', '2': 'B' }, obj2: { '3': 'C', '4': 'D' } }
 
-const obj4=Object.assign(obj1,obj2)
+const obj4=Object.assign({},obj1,obj2) //You can use this also --> const obj4=Object.assign(obj1,obj2)
 console.log(obj4); //{ '1': 'A', '2': 'B', '3': 'C', '4': 'D' }
 
-
+const obj5={...obj1,...obj2} //Spread method
+console.log(obj5);
 
 
