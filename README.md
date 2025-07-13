@@ -29,9 +29,11 @@ This repository offers a structured collection of JavaScript practice files that
 
 ### 📁 Object
 
-| File Name                   | Description                                                                    |
-|-----------------------------|--------------------------------------------------------------------------------|
-| `basicobject.js`            |                                                                                |
+| File Name                   | Description                                                                                  |
+|-----------------------------|----------------------------------------------------------------------------------------------|
+| `basicobject.js`            | Covers object literals, symbol keys, property access, immutability, and custom methods in JS.|
+| `object2.js`                | Shows object creation, nesting, merging, and key object methods in JS.                       |
+| `objectandjsonapi.js`       |                                                                                              |
 
 
 ## 💡 Purpose
