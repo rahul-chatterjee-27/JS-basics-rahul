@@ -25,8 +25,33 @@ console.log(typeof gituser[mysym])
 gituser.email="rc@github.com"
 console.log(gituser);
 
-Object.freeze(gituser) // NO change will take place after freeze
-gituser.email="rc@git.com"
-console.log(gituser);
+// Object.freeze(gituser) // NO change will take place after freeze
+// gituser.email="rc@git.com"
+// console.log(gituser); //Same output like previous one...
+
+gituser.greetings=function(){
+    console.log("Hello JS Coder!");   
+}
+
+//console.log(gituser.greetings); //[Function (anonymous)]
+console.log(gituser.greetings()); //Hello JS Coder!
+
+gituser.greetingsTwo=function(){
+    console.log(`Hello JS Coder,${this.name}!`);   
+}
+
+console.log(gituser.greetingsTwo()); //Hello JS Coder,Rahul!
+
+
+
+
+
+
+
+
+
+
+
+
 
 
