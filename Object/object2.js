@@ -47,3 +47,45 @@ const obj5={...obj1,...obj2} //Spread method
 console.log(obj5);
 
 
+console.log();
+console.log();
+console.log();
+
+const database=[
+    {
+        id: "usr_1",
+        email: "user1@gmail.com"
+    },
+    {
+        id: "usr_2",
+        email: "user2@gmail.com"
+    },
+    {
+        id: "usr_3",
+        email: "user3@gmail.com"
+    },
+    {
+        id: "usr_4",
+        email: "user4@gmail.com"
+    }
+]
+    
+
+console.log(database[2].email)
+console.log(database[1].id)
+
+const fbuser2={
+    id: "fbrahul2345",
+    name: "Rahul Chatterjee",
+    email: "rahul@facebook.com",
+    isLoggedIn: true
+}
+console.log(fbuser2);
+console.log(Object.keys(fbuser)) //[ 'id', 'name', 'email', 'isLoggedIn' ]
+
+
+
+
+
+
+
