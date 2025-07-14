@@ -38,10 +38,15 @@ This repository offers a structured collection of JavaScript practice files that
 
 ### 📁 Function
 
-| File Name                   | Description                                                                                        |
-|-----------------------------|----------------------------------------------------------------------------------------------------|
-| `functionbasic.js`          | Shows function usage, parameter-argument concept, return values, and input checks in JavaScript.   |
-| `functionandobject.js`      |    |
+| File Name                   | Description                                                                                           |
+|-----------------------------|-------------------------------------------------------------------------------------------------------|
+| `functionbasic.js`          | Shows function usage, parameter-argument concept, return values, and input checks in JavaScript.      |
+| `functionandobject.js`      | Explores rest parameters, argument handling, object passing, and array access in JavaScript functions.|
+
+### 📁 Scope
+
+| File Name                   | Description                                                                                           |
+|-----------------------------|-------------------------------------------------------------------------------------------------------|
 
 
 ## 💡 Purpose
