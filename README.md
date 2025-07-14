@@ -40,7 +40,8 @@ This repository offers a structured collection of JavaScript practice files that
 
 | File Name                   | Description                                                                                        |
 |-----------------------------|----------------------------------------------------------------------------------------------------|
-| `functionbasic.js`          |       |
+| `functionbasic.js`          | Shows function usage, parameter-argument concept, return values, and input checks in JavaScript.   |
+| `functionandobject.js`      |    |
 
 
 ## 💡 Purpose
