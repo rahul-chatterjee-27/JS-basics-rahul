@@ -36,6 +36,74 @@ function mul(num_1,num_2){
 const mul_result=mul(34,2)
 console.log("Multiplicaion: ",mul_result);
 
+function userLoginMessage(username){
+    return `Welcome ${username}! You are logged in.`
+}
+
+console.log(userLoginMessage("Rahul")) //Welcome Rahul! You are logged.
+console.log(userLoginMessage()) //Welcome undefined! You are logged in.(Empty string...)
+
+//Modified version using if statement...
+
+function userLoginMessage(username){
+    if(!username){                                       // if(username===undefined){
+        console.log("Please enter your name first ");
+        return
+    }
+    return `Welcome ${username}! You are logged in.`
+}
+
+console.log(userLoginMessage("Rahul"))
+console.log(userLoginMessage())
+
+function userLoginMessage(username){
+    if(!username){                                           // if(username===undefined){     
+        console.log("Please enter your name first ");
+        return
+    }
+    return `Welcome ${username}! You are logged in.`
+}
+
+
+console.log(userLoginMessage())
+console.log(userLoginMessage("Rahul"))
+
+
+// function userLoginMessage(username="User"){
+//     if(!username){                                       
+//         console.log("Please enter your name first ");
+//         return
+//     }
+//     return `Welcome ${username}! You are logged in.`
+// }
+
+// console.log(userLoginMessage())
+// console.log(userLoginMessage("Rahul"))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

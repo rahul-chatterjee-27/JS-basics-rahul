@@ -1,0 +1,1 @@
+// node Function/functionandobject.js
