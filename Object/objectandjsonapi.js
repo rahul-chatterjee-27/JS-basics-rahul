@@ -16,3 +16,17 @@ console.log(instructor);
 const {instructor: inst}=course //We can rename the variable too... (like instructur to inst)
 console.log(inst);
 
+//json type..
+
+// {
+//     "Name":"Rahul",
+//     "Passion":"Coding",
+//     "Branch":"ECE",
+//     "Platform":"GitHub",
+// }
+
+[
+    {},
+    {},
+    {},
+]
