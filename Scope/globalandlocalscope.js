@@ -1,0 +1,1 @@
+// node Scope/globalandlocalscope.js
