@@ -1,1 +1,0 @@
-//node Function/functionbasic.js
