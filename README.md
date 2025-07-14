@@ -47,6 +47,7 @@ This repository offers a structured collection of JavaScript practice files that
 
 | File Name                   | Description                                                                                           |
 |-----------------------------|-------------------------------------------------------------------------------------------------------|
+| `globalandlocalscope.js`    |                                                          |
 
 
 ## 💡 Purpose
