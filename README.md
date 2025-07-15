@@ -49,7 +49,7 @@ This repository offers a structured collection of JavaScript practice files that
 |---------------------------|----------------------------------------------------------------------------------------------------------------|
 | `globalandlocalscope.js`  | Demonstrates scope behavior of let, const, and var — highlighting local vs global scope in JavaScript.         |
 | `scopelevel.js`           | Shows scope, closure, and hoisting with inner function access and function declaration vs expression behavior. |
-| `thisandarrowfunction.js` ||
+| `thisandarrowfunction.js` | Shows `this` in regular vs arrow functions, Node vs browser context, and `arrow` function return styles.       |
 
 
 ## 💡 Purpose
