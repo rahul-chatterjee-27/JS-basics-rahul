@@ -45,9 +45,10 @@ This repository offers a structured collection of JavaScript practice files that
 
 ### 📁 Scope
 
-| File Name                   | Description                                                                                           |
-|-----------------------------|-------------------------------------------------------------------------------------------------------|
-| `globalandlocalscope.js`    |                                                          |
+| File Name                | Description                                                                                           |
+|--------------------------|-------------------------------------------------------------------------------------------------------|
+| `globalandlocalscope.js` | Demonstrates scope behavior of let, const, and var — highlighting local vs global scope in JavaScript.|
+| `scopelevel.js`          |               |
 
 
 ## 💡 Purpose
