@@ -10,6 +10,8 @@ function one(){
 }
 one() //Execution of function "one"
 
+// IMPORTENT: Closure in JavaScript is when an inner function has access to variables from its outer function scope, even after the outer function has finished executing.
+
 
 if(true){
     const name="Rahul"
