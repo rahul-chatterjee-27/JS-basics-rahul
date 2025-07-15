@@ -61,12 +61,36 @@ console.log(this); //{} --> Empty object
 
 //A simple arrow function...
 
-//Method-1
+//Method-1: Explicit Return
 const add=(num1,num2) => {
     return num1+num2
 }
 console.log(add(99,1)) //100
 
-//Method-2
-const addition=(num1,num2) => num1+num2
+//Method-2: Implicit Return
+const addition=(num1,num2) => num1+num2 //No need to use 'return' keyword if we aren't using {}
 console.log(addition(99,1)) //100
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
