@@ -71,6 +71,10 @@ console.log(add(99,1)) //100
 const addition=(num1,num2) => num1+num2 //No need to use 'return' keyword if we aren't using {}
 console.log(addition(99,1)) //100
 
+const name_arrow=(user)=>({Username:"Hi"});
+console.log(name_arrow("Raghav")); //{ Username: 'Hi' }
+
+const myarray=[1,2,3,4,5,6,7,8,9,10] //For array arrow function is very helpful
 
 
 
