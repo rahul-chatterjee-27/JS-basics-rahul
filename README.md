@@ -51,6 +51,12 @@ This repository offers a structured collection of JavaScript practice files that
 | `scopelevel.js`           | Shows scope, closure, and hoisting with inner function access and function declaration vs expression behavior. |
 | `thisandarrowfunction.js` | Shows `this` in regular vs arrow functions, Node vs browser context, and `arrow` function return styles.       |
 
+### 📁 IIfe
+
+| File Name  | Description                                                                                             |
+|------------|---------------------------------------------------------------------------------------------------------|
+| `iife.js`  |   |
+
 
 ## 💡 Purpose
 
