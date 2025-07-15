@@ -29,8 +29,44 @@ console.log(this); //{} --> Empty object
 
 //ARROW function..
 
+// function code(){
+//     console.log(this);   
+// }
+// code()
 
 
+// function code(){
+//     let username="Rahul"
+//     console.log(this.username);   //undefined
+// }
+// code()
 
 
+// const code=function(){
+//     let username="Rahul"
+//     console.log(this.username); //undefined
+// }
+// code()
 
+
+// const code=()=>{ //ARROW function
+//     let username="Rahul"
+//     console.log(this); //{}
+//     console.log(this.username); //undefined
+// }
+// code()
+
+// const variable () => {} //Basic syntax of arrow function
+
+
+//A simple arrow function...
+
+//Method-1
+const add=(num1,num2) => {
+    return num1+num2
+}
+console.log(add(99,1)) //100
+
+//Method-2
+const addition=(num1,num2) => num1+num2
+console.log(addition(99,1)) //100
