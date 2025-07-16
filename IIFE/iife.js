@@ -9,5 +9,12 @@
 //Method-2
 (function coding(){
     console.log('Database Connected');
-})() 
+})(); //Semicolon is mandetory for run the next function...
 
+// (function coding(){
+//     console.log('Database Connected Twice');
+// })() 
+
+( () => {
+    console.log('Database Connected Twice');
+})()
