@@ -1,3 +1,5 @@
+© 2025 Rahul Chatterjee. All rights reserved. Unauthorized use is prohibited.
+
 # JavaScript Basics Repository
 
 This repository offers a structured collection of JavaScript practice files that cover essential concepts such as variables, data types, memory management, operations, arrays, and more.
